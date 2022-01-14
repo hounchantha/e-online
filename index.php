@@ -10,15 +10,15 @@
   <meta name="robots" content="nofollow, noindex, noarchive, noimageindex">
   <meta property="og:locale" content="en_US">
   <meta property="og:type" content="article">
-  <meta property="og:title" content="Sambot.Online">
-  <meta property="og:description" content="Invitation">
-  <meta property="og:url" content="http://sambot.online/virya_meardey/">
+  <meta property="og:title" content="Welcome to Chetra & Muytoung eWedding Card">
+  <meta property="og:description" content="Prepared by Sambot.Online">
+  <meta property="og:url" content=" http://sambot.online/chetra_muytoung/">
   <meta property="og:site_name" content="e-invitation">
   <meta property="article:tag" content="protokol indonesia">
   <meta property="article:section" content="Desain 9 - Demo">
   <meta property="og:updated_time" content="2021-03-11T18:34:05+07:00">
-  <meta property="og:image" content="/tomas/3.jpg">
-  <meta property="og:image:secure_url" content="/tomas/3.jpg">
+  <meta property="og:image" content="/demopic/9.jpg">
+  <meta property="og:image:secure_url" content="/demopic/9.jpg">
   <meta property="og:image:width" content="1067">
   <meta property="og:image:height" content="1600">
   <meta property="og:image:alt" content="Sambot.Onlin">
@@ -26,7 +26,7 @@
   <meta name="twitter:card" content="summary_large_image">
   <meta name="twitter:title" content="Sambot.Onlin">
   <meta name="twitter:description" content="Invitation">
-  <meta name="twitter:image" content="/tomas/3.jpg">
+  <meta name="twitter:image" content="/demopic/9.jpg">
   <!-- /Rank Math WordPress SEO plugin -->
 
   <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" rel="stylesheet">
@@ -49,6 +49,7 @@
 
   <section class="culture-section">
     <div class="container">
+      <img class="hidden" style="width:240px;" src="demopic/9.jpg">
         <p style="padding:0; margin:10px auto;"><img style="width:240px;" src="tomas/txtname.png"></p>
         <span class="btn btn-slider">បើកសំបុត្រអញ្ជើញ</span>
     </div>
