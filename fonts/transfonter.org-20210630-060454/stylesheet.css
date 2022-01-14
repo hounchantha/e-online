@@ -1,0 +1,13 @@
+@font-face {
+    font-family: 'Khmer OS Metalchrieng';
+    src: url('KhmerOSMetalchrieng.eot');
+    src: url('KhmerOSMetalchrieng.eot?#iefix') format('embedded-opentype'),
+        url('KhmerOSMetalchrieng.woff2') format('woff2'),
+        url('KhmerOSMetalchrieng.woff') format('woff'),
+        url('KhmerOSMetalchrieng.ttf') format('truetype'),
+        url('KhmerOSMetalchrieng.svg#KhmerOSMetalchrieng') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
